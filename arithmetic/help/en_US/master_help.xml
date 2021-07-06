@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book [
+<!--Begin Entities-->
+<!ENTITY a25e0410bce3f0b86aca90fa7bf0ff201 SYSTEM "/home/fossee/Downloads/FOSSEE/Scilab-Testing/arithmetic/help/en_US/add.xml">
+<!ENTITY a7600ae9c59398d4218a1186f931cbe58 SYSTEM "/home/fossee/Downloads/FOSSEE/Scilab-Testing/arithmetic/help/en_US/sub.xml">
+<!--End Entities-->
+]>
+<book version="5.0-subset Scilab" xml:lang="en_US"
+      xmlns="http://docbook.org/ns/docbook"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xi="http://www.w3.org/2001/XInclude"
+      xmlns:svg="http://www.w3.org/2000/svg"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:html="http://www.w3.org/1999/xhtml"
+      xmlns:db="http://docbook.org/ns/docbook">
+  <info xml:id='arithmetic_manual'>
+    <title>arithmetic</title>
+  </info>
+
+<part xml:id='section_0130fd1bcb99c276f45cc1ed935a51d9'>
+<title>arithmetic</title>
+&a25e0410bce3f0b86aca90fa7bf0ff201;
+&a7600ae9c59398d4218a1186f931cbe58;
+</part>
+</book>

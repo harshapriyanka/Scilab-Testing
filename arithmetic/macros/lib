@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="arithmeticlib">
+  <macro name="add" file="add.bin" md5="0da7959b1477e415740797fcf11929cd"/>
+  <macro name="sub" file="sub.bin" md5="203397fb4841fd7440cab032fcfd2a77"/>
+</scilablib>
