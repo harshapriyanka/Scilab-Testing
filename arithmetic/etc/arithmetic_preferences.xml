@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+    <Form text="_d(arithmetic, Rectangle)">
+        <Entry text="_d(arithmetic, My Title)" value="exemple"/>
+        <Select text="_d(arithmetic, Height)" value="18">
+            <Option value="12"/>
+            <Option value="18"/>
+            <Option value="24"/>
+        </Select>
+        <Select text="_d(arithmetic, Width)" value="18">
+            <Option value="12"/>
+            <Option value="18"/>
+            <Option value="24"/>
+        </Select>
+        <Color text="_d(arithmetic, Color)" value="#0000ff"/>
+        <Checkbox text="_d(arithmetic, Outline)" value="yes"/>
+    </Form>
+</body>
