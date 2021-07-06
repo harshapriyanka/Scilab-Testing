@@ -54,5 +54,3 @@ locales/fr_FR/
 *.la
 *.out
 *.o
-thirdparty/
-
